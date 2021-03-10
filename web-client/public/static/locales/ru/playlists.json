@@ -1,0 +1,21 @@
+{
+  "title": "Playlists",
+  "h1": "Playlists",
+  "create": "Create",
+  "playlistCard": {
+    "lessonsCount": "lessons",
+    "favoriteIconLabel": "add to favorites"
+  },
+  "filter": {
+    "tagTypes": {
+      "instrument": "Instrument"
+    },
+    "tags": {
+      "guitar": "Guitar"
+    },
+    "orderByLabel": "Order by",
+    "orderByOptions": {
+      "date": "Date"
+    }
+  }
+}

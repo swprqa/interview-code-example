@@ -1,0 +1,16 @@
+{
+  "routes": {
+    "playlists": "Playlists",
+    "users": "Users",
+    "favorites": "Favorites"
+  },
+  "topnav": {
+    "login": "Log in",
+    "signup": "Sign up",
+    "toggleButtonLabel": "Open side menu"
+  },
+  "logoAlt": "Logo",
+  "tags": {
+
+  }
+}
